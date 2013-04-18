@@ -5,3 +5,5 @@ This is my new file edited by sublime.
 and a third edit BEFORE BRANCHING.
 
 a 4th edit of an original file within the master branch.
+
+This is a new change...
